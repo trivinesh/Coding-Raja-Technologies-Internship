@@ -32,9 +32,8 @@ def LemNormalize(text):
 GREETING_INPUTS = ("hello", "hi", "greetings",  "what's up", "hey")
 GREETING_RESPONSES = ["hi", "hey", "hi there", "hello", "I am glad! you are talking to me"]
 
-def greeting(sentence):
-    
-    for word in sentence.split():
+def greeting(sentence): 
+    for word in sentence.split():
         if word.lower() in GREETING_INPUTS:
             return random.choice(GREETING_RESPONSES)
         
@@ -74,7 +73,7 @@ if __name__ == "__main__":
                 print("Siri: You're welcome!")
             else:
                 if(greeting(user_response)!=None):
-                        print("Siri:"+greeting(user_response))
+                     print("Siri:"+greeting(user_response))
                 else:
                     print("Siri:", end='')
                     print(response(user_response))

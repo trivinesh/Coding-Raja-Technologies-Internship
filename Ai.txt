@@ -1,0 +1,22 @@
+Defination of Artificial intelligence 
+Artificial intelligence is the simulation of human intelligence processes by machines, especially computer system 
+some of applications of Artificial intelligence are
+Machine learning
+Natural language processing
+Deep learning
+Computer vision
+Robotics
+Finance
+Self-driving car
+Marketing
+Pattern recognition
+Chatbot
+Uses of Artificial intelligence are
+Fraud detection
+image recognition
+speech recognition
+Father of Artificial intelligence
+John McCarthy is considered as the father of Artificial Intelligence. 
+John McCarthy was an American computer scientist.
+The term "artificial intelligence" was coined by him.
+
